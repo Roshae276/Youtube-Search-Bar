@@ -23,7 +23,7 @@ This is a simple clone of the YouTube search bar that I made using HTML, CSS, an
 
 ## 🖼 Screenshot
 
-![YouTube Search Clone Screenshot](./Screenshot%202025-07-27%20YouTubeSearchBar.png)
+![YouTube Search Clone Screenshot](https://github.com/Roshae276/Youtube-Search-Bar/blob/main/Screenshot%202025-07-27%20221318.png)
 
 
 
