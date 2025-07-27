@@ -42,11 +42,6 @@ style.css
 script.js
 Screenshot 2025-07-27 YouTubeSearchBar.png
 
-yaml
-Copy
-Edit
-
----
 
 ## ✍️ Why I made this
 
